@@ -12,6 +12,14 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[markdown写作]]></title>
+    <url>%2Fmarkdown.html</url>
+    <content type="text"><![CDATA[现在流行markdown写作，windows下最常用的是Typora，免费，界面美观。]]></content>
+      <tags>
+        <tag>Tech</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[用群晖建了一个 Calibre 网站]]></title>
     <url>%2Fqunhui.html</url>
     <content type="text"><![CDATA[测试一下图片]]></content>
@@ -20,14 +28,6 @@
       </categories>
       <tags>
         <tag>sharing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[markdown写作]]></title>
-    <url>%2Fmarkdown.html</url>
-    <content type="text"><![CDATA[现在流行markdown写作，windows下最常用的是Typora，免费，界面美观。]]></content>
-      <tags>
-        <tag>Tech</tag>
       </tags>
   </entry>
 </search>
