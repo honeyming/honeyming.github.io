@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[伪码农的记录]]></title>
     <url>%2Fhello-world.html</url>
-    <content type="text"><![CDATA[开始博客写作几经折腾，准备在GITHUB玩玩博客写作，想当年用过wordpress，看到利用github 可以建成一个 HEXO静态网页，觉得还是很不错的。 1This is a test page 测试一下代码块 123456789101112131415&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;meta charset=&quot;UTF-8&quot;&gt;&lt;title&gt;Document&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;]]></content>
+    <content type="text"><![CDATA[开始博客写作几经折腾，准备在GITHUB玩玩博客写作，想当年用过wordpress，看到利用github 可以建成一个 HEXO静态网页，觉得还是很不错的。 1This is a test page]]></content>
       <categories>
         <category>Tech</category>
       </categories>
