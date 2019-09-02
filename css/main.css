@@ -1668,7 +1668,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c8ff77;
+  background: #4dfff6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2709,4 +2709,7 @@ body #footer > div > div {
 .headband {
   height: 1.5px;
   background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
+}
+.container {
+  background-color: rgba(0,0,0,0.5);
 }
