@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[English study]]></title>
+    <url>%2FEnglish-study.html</url>
+    <content type="text"><![CDATA[测试一下版权页]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[伪码农的记录]]></title>
     <url>%2Fhello-world.html</url>
     <content type="text"><![CDATA[开始博客写作几经折腾，准备在GITHUB玩玩博客写作，想当年用过wordpress，看到利用github 可以建成一个 HEXO静态网页，觉得还是很不错的。 1This is a test page]]></content>
-      <categories>
-        <category>Tech</category>
-      </categories>
-      <tags>
-        <tag>sharing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[用群晖建了一个 Calibre 网站]]></title>
-    <url>%2Fqunhui.html</url>
-    <content type="text"><![CDATA[测试一下图片 测试视频 - Dream back Vienna]]></content>
       <categories>
         <category>Tech</category>
       </categories>
@@ -31,6 +25,17 @@
       </categories>
       <tags>
         <tag>Tech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[用群晖建了一个 Calibre 网站]]></title>
+    <url>%2Fqunhui.html</url>
+    <content type="text"><![CDATA[测试一下图片 测试视频 - Dream back Vienna]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>sharing</tag>
       </tags>
   </entry>
 </search>
