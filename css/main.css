@@ -981,9 +981,6 @@ pre .javascript .function {
   text-align: center;
   visibility: hidden;
 }
-.back-to-top span {
-  display: none;
-}
 .back-to-top:hover {
   opacity: 0.8;
 }
@@ -1706,7 +1703,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff2ac3;
+  background: #001a9d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2734,6 +2731,22 @@ body {
   -moz-background-size: cover;
   -ms-background-size: cover;
 }
+body .back-to-top {
+  right: 60px;
+  width: 70px;
+  height: 900px;
+  top: -900px;
+  bottom: unset;
+  transition: all 0.5s ease-in-out;
+  background: url("/images/scroll.png");
+}
+body .back-to-top > i {
+  display: none;
+}
+body .back-to-top.back-to-top-on {
+  bottom: unset;
+  top: calc(100vh - 900px - 200px);
+}
 body #footer > div > div {
   color: #000;
 }
@@ -2751,20 +2764,4 @@ body #footer > div > div {
 }
 .container {
   background-color: rgba(0,0,0,0.5);
-}
-.back-to-top {
-  right: 60px;
-  width: 70px;
-  height: 900px;
-  top: -900px;
-  bottom: unset;
-  transition: all 0.5s ease-in-out;
-  background: url("/images/scroll.png");
-}
-.back-to-top > i {
-  display: none;
-}
-.back-to-top.back-to-top-on {
-  bottom: unset;
-  top: calc(100vh - 900px - 200px);
 }
