@@ -12,11 +12,11 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[hexo 写作相关记录]]></title>
-    <url>%2Fhexo.html</url>
-    <content type="text"><![CDATA[]]></content>
+    <title><![CDATA[markdown写作]]></title>
+    <url>%2Fmarkdown.html</url>
+    <content type="text"><![CDATA[现在流行markdown写作，windows下最常用的是Typora，免费，界面美观。]]></content>
       <categories>
-        <category>Tech</category>
+        <category>ohters</category>
       </categories>
       <tags>
         <tag>Tech</tag>
@@ -31,17 +31,6 @@
       </categories>
       <tags>
         <tag>sharing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[markdown写作]]></title>
-    <url>%2Fmarkdown.html</url>
-    <content type="text"><![CDATA[现在流行markdown写作，windows下最常用的是Typora，免费，界面美观。]]></content>
-      <categories>
-        <category>ohters</category>
-      </categories>
-      <tags>
-        <tag>Tech</tag>
       </tags>
   </entry>
 </search>
