@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[some tricks in markdown writing]]></title>
+    <url>%2Fsome-tricks-in-markdown-writing.html</url>
+    <content type="text"><![CDATA[Some hexo-next markdown tipsbutton点击下载]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>Tech</tag>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[hexo 写作相关记录]]></title>
     <url>%2Fhexo.html</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
       <categories>
         <category>Tech</category>
       </categories>
