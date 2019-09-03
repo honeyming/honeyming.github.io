@@ -1597,6 +1597,13 @@ pre .javascript .function {
   align-self: center;
   height: 30px;
 }
+.post-copyright {
+  background-color: #f9f9f9;
+  border-left: 3px solid #ff1700;
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0.5em 1em;
+}
 .my_post_copyright {
   width: 85%;
   max-width: 45em;
@@ -1723,7 +1730,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4b9042;
+  background: #0053ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
