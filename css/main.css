@@ -1590,6 +1590,57 @@ pre .javascript .function {
   align-self: center;
   height: 30px;
 }
+.my_post_copyright {
+  width: 85%;
+  max-width: 45em;
+  margin: 2.8em auto 0;
+  padding: 0.5em 1em;
+  border: 1px solid #d3d3d3;
+  font-size: 0.93rem;
+  line-height: 1.6em;
+  word-break: break-all;
+  background: rgba(255,255,255,0.4);
+}
+.my_post_copyright p {
+  margin: 0;
+}
+.my_post_copyright span {
+  display: inline-block;
+  width: 5.2em;
+  color: #333;
+  font-weight: bold;
+}
+.my_post_copyright .raw {
+  margin-left: 1em;
+  width: 5em;
+}
+.my_post_copyright a {
+  color: #808080;
+  border-bottom: 0;
+}
+.my_post_copyright a:hover {
+  color: #0593d3;
+  text-decoration: underline;
+}
+.my_post_copyright:hover .fa-clipboard {
+  color: #000;
+}
+.my_post_copyright .post-url:hover {
+  font-weight: normal;
+}
+.my_post_copyright .copy-path {
+  margin-left: 1em;
+  width: 1em;
+}
+@media (max-width: 767px) {
+  .my_post_copyright .copy-path {
+    display: none;
+  }
+}
+.my_post_copyright .copy-path:hover {
+  color: #808080;
+  cursor: pointer;
+}
 .sidebar {
   background: #222;
   bottom: 0;
@@ -1665,7 +1716,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff83c2;
+  background: #ff37ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2726,4 +2777,32 @@ body #footer > div > div {
 }
 .container {
   background-color: rgba(0,0,0,0.5);
+}
+# ����ɫ�߿� <p id="div-border-left-red">�Ҳ��ʽ����Σ����Լ�֮���ܣ���������ԡ�</p>,
+p#div-border-left-red,
+p#div-border-left-yellow,
+p#div-border-left-green,
+p#div-border-left-blue,
+p#div-border-left-purple {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border-left-width: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+p#div-border-left-red {
+  border-left-color: #df3e3e;
+}
+p#div-border-left-yellow {
+  border-left-color: #f0ad4e;
+}
+p#div-border-left-green {
+  border-left-color: #5cb85c;
+}
+p#div-border-left-blue {
+  border-left-color: #2780e3;
+}
+p#div-border-left-purple {
+  border-left-color: #9954bb;
 }
