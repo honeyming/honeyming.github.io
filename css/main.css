@@ -1679,7 +1679,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b4c9c4;
+  background: #42b4dd;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2730,7 +2730,7 @@ body #footer > div > div {
 }
 .main-inner {
   background: #fff;
-  opacity: 0.9;
+  opacity: 0.95;
 }
 .headband {
   height: 1.5px;
