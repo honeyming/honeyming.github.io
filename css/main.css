@@ -1679,7 +1679,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff2f22;
+  background: #6c94e7;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2696,7 +2696,7 @@ ul.breadcrumb li + li:last-child {
 }
 body {
   background: url("/images/background.jpg");
-  opacity: 0.9;
+  opacity: 0.95;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2738,7 +2738,7 @@ body #footer > div > div {
   background-image: linear-gradient(90deg, #f79533 0%, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
 }
 .container {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0);
 }
 # ����ɫ�߿� <p id="div-border-left-red">�Ҳ��ʽ����Σ����Լ�֮���ܣ���������ԡ�</p>,
 p#div-border-left-red,
